@@ -1,0 +1,35 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+    font-family:Arial, sans-serif
+}td{
+     border: 3px solid darkgrey;
+     text-align: center;
+     height: 50px;
+     width: 50px;
+     font-family:"Arial Black"
+ }
+.backgroudRed{
+    background-color: red;
+}
+.backgroudBlu{
+    background-color: blue;
+}
+.backgroudYelow{
+    background-color: yellow;
+}
+.textRed{
+    color: red;
+}
+.textBlu{
+    color: blue;
+}
+th{
+    width: auto;
+    height: 40px;
+}
+h2{
+    text-align: center;
+    color:orangered;
+}
